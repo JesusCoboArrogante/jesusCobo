@@ -9,10 +9,7 @@
 
 <h2 align:center>El tiempo que dedico</h2>
 
-<p align="center">
-<img src="https://wakatime.com/share/@joseluisgs/45920ff5-102f-4c99-98bf-66020c1985e2.svg" height= 300></img>
- <img src="https://wakatime.com/share/@joseluisgs/58cd2496-6b0d-426d-bc34-add12de917ad.svg" height= 300></img>
- </p>
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21160%26project%3D%26in%3D0">
 
 
 
