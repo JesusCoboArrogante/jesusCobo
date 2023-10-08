@@ -9,4 +9,10 @@
 
 <h2 align:center>El tiempo que dedico</h2>
 
+<p align="center">
+<img src="https://wakatime.com/share/@joseluisgs/45920ff5-102f-4c99-98bf-66020c1985e2.svg" height= 300></img>
+ <img src="https://wakatime.com/share/@joseluisgs/58cd2496-6b0d-426d-bc34-add12de917ad.svg" height= 300></img>
+ </p>
+
+
 
