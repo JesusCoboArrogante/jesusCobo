@@ -11,8 +11,10 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=JesusCoboArrogante&show_icons=true&theme=github_dark&show_icons=true&rank_icon=github"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=JesusCoboArrogante&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true&rank_icon=github" alt="JesusCoboArrogante's GitHub stats" height="150"/></a>
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=JesusCoboArrogante&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=JesusCoboArrogante&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JesusCoboArrogante%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="150"/></a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCoboArrogante&hide_progress=true)
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 
