@@ -7,7 +7,7 @@
 
 <p align="center"><img src =https://skillicons.dev/icons?i=html,css,kotlin,vscode,idea,github</p>
   
-<h2 align=center>El tiempo que dedico</h2>
+<h2 align=center>En que dedico mi tiempo</h2>
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=JesusCoboArrogante&show_icons=true&theme=github_dark&show_icons=true&rank_icon=github"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=JesusCoboArrogante&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true&rank_icon=github" alt="JesusCoboArrogante's GitHub stats" height="125"/></a>
