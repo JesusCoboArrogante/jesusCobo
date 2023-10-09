@@ -13,14 +13,6 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=JesusCoboArrogante&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=JesusCoboArrogante&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JesusCoboArrogante%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="150"/></a>
 </p>
 
-<p align="center">
-<img src="https://wakatime.com/share/@018b1188-b25a-4e30-94b5-cdcd328c192c/60494c3e-f017-4e1c-9843-dd120345105e.svg" height= 300></img>
- <img src="https://wakatime.com/share/@018b1188-b25a-4e30-94b5-cdcd328c192c/60494c3e-f017-4e1c-9843-dd120345105e.svg" height= 300></img>
- </p>
-
-
-
-<figure><embed src="https://wakatime.com/share/@018b1188-b25a-4e30-94b5-cdcd328c192c/8ca389ad-5cf2-4e74-8260-73aae3b789c8.svg"></embed></figure>
 
 
 
