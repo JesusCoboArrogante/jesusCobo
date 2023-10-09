@@ -14,7 +14,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCoboArrogante&hide_progress=true)
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 
