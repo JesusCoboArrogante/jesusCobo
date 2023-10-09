@@ -1,6 +1,6 @@
 <h1 align=center>Soy Jesus Oscar Cobo Arrogante</h1>
 <img src="https://user-images.githubusercontent.com/146002181/273465894-b24741d8-2e84-4de6-b9e4-9bfd6e7a5f4a.png" width="200" height="150"align=left >
-<p>Actualmente estoy estudiando en el instituo de educacion profesiones <a href="https://www.iesluisvives.es" >IES Luis Vives</a> de Leganes (Madrid), stou cursando 1 DAW</p>
+<p>Actualmente estoy estudiando en el instituo de educacion profesiones <a href="https://www.iesluisvives.es" >IES Luis Vives</a> de Leganes (Madrid), estoy cursando 1 DAW</p>
 <p >Para que me conozcais un poco mejor mis aficiones son la lectura ya sea libro (fantasia) o manga :book:, las peliculas y series ya se han en anime o no, los videjuegos (SoulLike):video_game: y la musica (cadena Dial)</p>
 
 <h2 align="center">Tecnologia que conozco</h2>
